@@ -1,0 +1,14 @@
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.exe
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.deps.json
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.runtimeconfig.json
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.runtimeconfig.dev.json
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.dll
+C:\Users\new owner\source\repos\myCpractice\myCpractice\bin\Debug\netcoreapp3.1\myCpractice.pdb
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.csproj.AssemblyReference.cache
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.AssemblyInfoInputs.cache
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.AssemblyInfo.cs
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.csproj.CoreCompileInputs.cache
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.dll
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.pdb
+C:\Users\new owner\source\repos\myCpractice\myCpractice\obj\Debug\netcoreapp3.1\myCpractice.genruntimeconfig.cache
